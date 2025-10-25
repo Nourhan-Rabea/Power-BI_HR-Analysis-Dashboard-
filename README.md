@@ -74,4 +74,7 @@ Provides a high-level organizational view of workforce performance:
 This HR Analytics project demonstrates how **Power BI and DAX** can turn HR data into valuable insights for **workforce planning**, **employee engagement**, and **organizational decision-making**.
 
 ---
-
+## 👩‍💻 Author
+**Nourhan Rabea**  
+📧 [LinkedIn: https://www.linkedin.com/in/nourhan-rabea]  
+💼 Passionate about Data Analytics | Power BI | Business Intelligence
