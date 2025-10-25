@@ -26,7 +26,7 @@ Key **DAX measures** used in the project include:
 
 ## 📈 Dashboard Pages & Visuals
 
-### **1️⃣ HR Employee Analysis Dashboard**
+### **1️⃣ HR Analysis Dashboard**
 Focuses on employee demographics and satisfaction insights:
 - Cards: Total Employees, Average Salary, Average Age, Average Experience, Attrition Rate  
 - Visuals: Distance from home, Job Level, Environment & Work-Life Balance Satisfaction  
@@ -36,7 +36,7 @@ Focuses on employee demographics and satisfaction insights:
 
 ---
 
-### **2️⃣ HR Management Dashboard**
+### **2️⃣ HR Data Dashboard**
 Provides a high-level organizational view of workforce performance:
 - Cards: Headcount, Active %, Terminated %, Gender Distribution  
 - Visuals: Employee by Department, Marital Status, Recruitment Source, and Satisfaction  
